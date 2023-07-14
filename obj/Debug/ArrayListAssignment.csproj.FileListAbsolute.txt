@@ -1,0 +1,8 @@
+C:\Dotnet\ArrayListAssignment\ArrayListAssignment\obj\Debug\ArrayListAssignment.csproj.AssemblyReference.cache
+C:\Dotnet\ArrayListAssignment\ArrayListAssignment\obj\Debug\ArrayListAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet\ArrayListAssignment\ArrayListAssignment\obj\Debug\ArrayListAssignment.csproj.CoreCompileInputs.cache
+C:\Dotnet\ArrayListAssignment\ArrayListAssignment\bin\Debug\ArrayListAssignment.exe.config
+C:\Dotnet\ArrayListAssignment\ArrayListAssignment\bin\Debug\ArrayListAssignment.exe
+C:\Dotnet\ArrayListAssignment\ArrayListAssignment\bin\Debug\ArrayListAssignment.pdb
+C:\Dotnet\ArrayListAssignment\ArrayListAssignment\obj\Debug\ArrayListAssignment.exe
+C:\Dotnet\ArrayListAssignment\ArrayListAssignment\obj\Debug\ArrayListAssignment.pdb
